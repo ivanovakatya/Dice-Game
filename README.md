@@ -1,5 +1,4 @@
-# DICE - GAME
-<img align="leftt" src="images/dice-6.png" width="20px" hight="20px" /> 
+# DICE - GAME <img align="leftt" src="images/dice-6.png" width="20px" hight="20px" /> 
 
 Is a fun rolling dice game for two players.\
 Each player could roll a dice by clicking on the `ROLL DICE` button.\
