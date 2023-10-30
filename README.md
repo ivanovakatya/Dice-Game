@@ -6,7 +6,7 @@ Players could hold the score by clicking on the `HOLD` button, when score is hol
 When dice of 1 is scored, if the score is not safed, the score is lost and the other player could play.\
 By default game stats with play one turn, which player turn is could be distinguished with highlighted background on the player fields.\
 When the hold player score reaches 100 points game is over.\
-Dark blue colour appears on 🏆 side when player won the game.
+Dark blue colour appears on 🏆 side when player won the game.\
 Players could start a new game when `NEW GAME` button is clicked.
 
 
